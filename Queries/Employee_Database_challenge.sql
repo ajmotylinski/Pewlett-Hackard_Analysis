@@ -17,7 +17,7 @@ ______,
 ______,
 ______
 
-INTO nameyourtable
+INTO emp_list
 FROM _______
 WHERE _______
 ORDER BY _____, _____ DESC;
